@@ -22,3 +22,5 @@ A modular implementation of canonical Machine Learning algorithms built from scr
    ```bash
    git clone [https://github.com/Transacttt/ml-from-first-principles.git](https://github.com/Transacttt/ml-from-first-principles.git)
    cd ml-from-first-principles
+   ```
+   
