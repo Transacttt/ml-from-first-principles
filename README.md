@@ -16,11 +16,10 @@ A modular implementation of canonical Machine Learning algorithms built from scr
 * **Numerical Stability Safeguards:** Incorporates floating-point clipping to prevent `np.exp()` overflows and clamping ($\epsilon = 10^{-15}$) for log-loss computations.
 * **First-Principles Preprocessing:** Includes custom standardization routines (`CustomStandardScaler`) to prevent feature-scale domination during optimization.
 
+
 ## How to Run
 
 1. Clone the repository:
    ```bash
    git clone [https://github.com/Transacttt/ml-from-first-principles.git](https://github.com/Transacttt/ml-from-first-principles.git)
    cd ml-from-first-principles
-   ```
-   
