@@ -110,4 +110,4 @@ if __name__ == "__main__":
 
     print("=== Normal Equation (Closed-Form) Results ===")
     print(f"Final RMSE: ${ols_rmse:,.2f}")
-    print(f"R^2 Score:  {ols_r2:.4f}")
+    print(f"R2 Score:  {ols_r2:.4f}")
