@@ -20,7 +20,7 @@ A modular implementation of canonical Machine Learning algorithms built from scr
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Transacttt/ml-from-first-principles.git](https://github.com/Transacttt/ml-from-first-principles.git)
+   git clone https://github.com/Transacttt/ml-from-first-principles.git
    cd ml-from-first-principles
    python notebooks/01_logistic_regression_from_scratch.py
    python notebooks/02_linear_regression_from_scratch.py
